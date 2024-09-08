@@ -36,6 +36,9 @@ body {
   border-radius: 5%;
   height: 75vh;
 }
+. paper .heart img{
+  height:20vh;
+}
 /* .para{
   /* font-weight: bolder; */
   /* font-family: 'Zeyada';
